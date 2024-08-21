@@ -103,7 +103,8 @@ MOV [600H],AX;
 ret
 ```
 ## Output  
-![image](https://github.com/user-attachments/assets/e9c62841-35b7-4bfb-8209-8968f78b5c9b)
+![image](https://github.com/user-attachments/assets/1b208f5c-d42f-4cac-a2de-100bbf47dc0b)
+
 
 
 ## Multiplication alp 
