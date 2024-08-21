@@ -89,7 +89,8 @@ ret
 ```
 
 ## Output  
- ![Screenshot (36)(1)(1)](https://github.com/user-attachments/assets/c99b240c-df08-4879-8d1e-07e5caf24ea7)
+![image](https://github.com/user-attachments/assets/6d354885-5a7d-485f-bf99-000d95d23780)
+
 
 ## Subtraction   of 8 bit numbers  ALP 
  ```
@@ -102,7 +103,8 @@ MOV [600H],AX;
 ret
 ```
 ## Output  
-![Screenshot (37)(1)(1)](https://github.com/user-attachments/assets/39d75a73-ff28-4724-9805-f5fae4371b44)
+![image](https://github.com/user-attachments/assets/e9c62841-35b7-4bfb-8209-8968f78b5c9b)
+
 
 ## Multiplication alp 
 ```
@@ -119,7 +121,15 @@ ret
 
 
 ## Division alp 
+```
+org 100h
 
+MOV AX,04H;
+MOV BX,02H;
+ADD AX,BX;
+MOV [700H],AX;
+ret
+```
 ## Output  
 
 
