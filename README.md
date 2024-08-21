@@ -132,6 +132,7 @@ MOV [700H],AX;
 ret
 ```
 ## Output  
+![image](https://github.com/user-attachments/assets/37d55003-83ed-438b-9321-3271b080a718)
 
 
 ## Result :
