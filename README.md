@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : P PARTHIBAN
-Roll no : 212223230145
-Date of experiment : 21.8.2024
+# Name : P PARTHIBAN
+# Roll no : 212223230145
+# Date of experiment : 21.8.2024
 
 
 
@@ -134,6 +134,20 @@ ret
 ## Output  
 ![image](https://github.com/user-attachments/assets/37d55003-83ed-438b-9321-3271b080a718)
 
+## Programs for Logical operations
+##  AND 
+```
+org 100h
+
+MOV AX,016H;
+MOV BX,032H;
+ADD AX,BX;
+MOV [300H],AX;
+ret
+```
+
+## Output  
+![image](https://github.com/user-attachments/assets/a9582c65-c0eb-4d59-b0e3-c65f877a6c67)
 
 ## Result :
  
