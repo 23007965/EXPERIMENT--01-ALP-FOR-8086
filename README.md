@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/f29c90d9-86ef-416e-8654-6c9939f95cc7"># EXPERIMENT--01-ALP-FOR-8086
 # Name : P PARTHIBAN
 # Roll no : 212223230145
 # Date of experiment : 21.8.2024
@@ -134,12 +134,62 @@ ret
 ## Output  
 ![image](https://github.com/user-attachments/assets/37d55003-83ed-438b-9321-3271b080a718)
 
+## Program for Logical Operations
+## AND
+```
+org 100h
 
+MOV BX,04H; 
+MOV AX,08H;
+OR AX,BX;
+MOV [700H],AX;
 
+ret
+```
+## OUTPUT
 
+## OR
+```
+org 100h
 
+MOV BX,04H; 
+MOV AX,08H;
+OR AX,BX;
+MOV [700H],AX;
 
+ret
+```
+## OUTPUT
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/56a73065-27eb-4c81-80bf-6ffb40879404">
 
+## XOR
+```
+org 100h
+
+MOV BX,04H; 
+MOV AX,08H;
+OR AX,BX;
+MOV [700H],AX;
+
+ret
+```
+## OUTPUT
+
+## NOT
+```
+org 100h
+
+MOV AX,04H;
+NOT AX;
+MOV [400],AX;
+
+ret
+
+```
+## OUTPUT
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/0a324688-2d83-4588-a484-a80e919f1002">
+
+## RESULT
 
 
 
