@@ -1,4 +1,3 @@
-<img width="797" alt="image" src="https://github.com/user-attachments/assets/f29c90d9-86ef-416e-8654-6c9939f95cc7"># EXPERIMENT--01-ALP-FOR-8086
 # Name : P PARTHIBAN
 # Roll no : 212223230145
 # Date of experiment : 21.8.2024
